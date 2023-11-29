@@ -1,0 +1,13 @@
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    &__inner{
+       width: 400px;
+       display: flex;
+       justify-content: space-evenly;
+       align-items: center;
+       padding-top: 20px;
+    }
+}
